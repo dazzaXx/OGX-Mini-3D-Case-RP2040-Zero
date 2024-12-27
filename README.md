@@ -3,6 +3,8 @@
 
 Made using SolidWorks 2020.
 
+One the components are installed in the casing, it is highly recommended to use a glue gun to secure everything in place.
+
 For Waveshare RP2040 Zero devices only and USB Type A Female breakout boards that fit the dimensions of these:
 https://www.amazon.co.uk/dp/B09WQHPXH6
 
